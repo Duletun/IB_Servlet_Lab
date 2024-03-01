@@ -153,14 +153,12 @@
 Рис.16. Окно ввода парольной фразы
 
 
-![image3](https://github.com/Duletun/servlet_Test/assets/76465730/b9bbd34a-3183-42eb-86e9-200c64dcf2bf)
+![image3](https://github.com/Duletun/servlet_Test/assets/76465730/b9bbd34a-3183-42eb-86e9-200c64dcf2bf) <br />
+Рис.17. Неверный ввод парольной фразы или неправильное содержимое файла <br />
 
-Рис.17. Неверный ввод парольной фразы или неправильное содержимое файла 
 
-
-![image4](https://github.com/Duletun/servlet_Test/assets/76465730/59a3cdb2-5b3e-4893-89e8-ea7b9d516023)
-
-Рис.18. Созданный зашифрованный файл с помощью парольной фразы и генерации ключа
+![image4](https://github.com/Duletun/servlet_Test/assets/76465730/59a3cdb2-5b3e-4893-89e8-ea7b9d516023) <br />
+Рис.18. Созданный зашифрованный файл с помощью парольной фразы и генерации ключа <br />
 
 
 
