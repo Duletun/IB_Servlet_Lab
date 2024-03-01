@@ -1,0 +1,198 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: -webkit-gradient(linear, left top, left bottom, from(#6c5fa2), to(#551b9d)) fixed;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    padding: 40px;
+    background: rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.box h1{
+    color: #fff;
+    margin: 0;
+    padding: 0 0 50px;
+    text-align: center;
+}
+
+.box h2{
+    color: #fff;
+    padding: 0 0 20px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+.box h4{
+    color: #fff;
+    margin: 0;
+    padding: 0 0 10px;
+    text-align: center;
+}
+
+.box .inputBox{
+    position: relative;
+}
+.box .inputBox input{
+    height: 20px;
+    width: 100%;
+    padding: 0px 0;
+    font-size: 15px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    font-family: sans-serif;
+    transition: .5s;
+}
+.box .inputBox label{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0px 0;
+    font-size: 16px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+
+}
+
+.box .inputBox p{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+.box b{
+    display: block;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+    font-family: sans-serif;
+}
+
+.box .checkBoxes p{
+    vertical-align: middle;
+    display: inline-block;
+    text-align: left;
+    font-size: 15px;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.box .checkBoxes input{
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+}
+
+.box .listButtons{
+    display: flex;
+}
+.box .listButtons input{
+    min-width: 50px;
+    line-height:20px;
+    text-align:center;
+    margin: 0 auto;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #000000;
+    background: #a99bff;
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.box .confirm button{
+    min-width: 50px;
+    line-height:20px;
+    width: 80%;
+    text-align:center;
+    display: block;
+    margin: 0 auto;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #000000;
+    background: #a99bff;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.box .menu input{
+    min-width: 50px;
+    line-height:20px;
+    width: 80%;
+    text-align:center;
+    display: block;
+    margin: 0 auto;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #000000;
+    background: #a99bff;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+
+.box p{
+    text-align: center;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+
+
+.box .backText{
+    color: #a99bff;
+    text-align: center;
+    display:block;
+    margin: 0 auto;
+}
+
+
+a{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+
+.box .inputBox input:focus,
+.box .inputBox input:valid{
+    border-bottom: 1px solid #ffffff;
+}
+
+.box .inputBox input:focus ~ label,
+.box .inputBox input:valid ~ label{
+    top: -18px; / * убираем метки вверх * /
+left: 0;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: bold;
+}
