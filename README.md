@@ -89,68 +89,68 @@
  
 ## Результат работы программы:
 
-![image2](https://github.com/Duletun/servlet_Test/assets/76465730/bdb2d01a-f904-4e5d-9ffa-36c280549c54)
-Рис.1. Окно авторизации
+![image2](https://github.com/Duletun/servlet_Test/assets/76465730/bdb2d01a-f904-4e5d-9ffa-36c280549c54) <br />
+Рис.1. Окно авторизации <br />
 
 
-![image3](https://github.com/Duletun/servlet_Test/assets/76465730/4d6da4f5-5198-4ebb-a9e1-af2748317325)
-Рис.2. Панель администратора
+![image3](https://github.com/Duletun/servlet_Test/assets/76465730/4d6da4f5-5198-4ebb-a9e1-af2748317325) <br />
+Рис.2. Панель администратора<br />
 
 
-![image4](https://github.com/Duletun/servlet_Test/assets/76465730/5535fac5-0358-4e14-927b-f437660c20a9)
-Рис.3. Изменение пароля администратора при первом входе
+![image4](https://github.com/Duletun/servlet_Test/assets/76465730/5535fac5-0358-4e14-927b-f437660c20a9) <br />
+Рис.3. Изменение пароля администратора при первом входе <br />
 
 
-![image5](https://github.com/Duletun/servlet_Test/assets/76465730/4ce295e2-7e1a-4e39-9e99-c0cfdf34ef9b)
-Рис.4. Изменение пароля администратора при повторном входе
+![image5](https://github.com/Duletun/servlet_Test/assets/76465730/4ce295e2-7e1a-4e39-9e99-c0cfdf34ef9b) <br />
+Рис.4. Изменение пароля администратора при повторном входе <br />
 
 
-![image6](https://github.com/Duletun/servlet_Test/assets/76465730/9684f9e6-f960-424d-a17a-2e10a1aeb054)
-Рис.5. Окно добавления новых пользователей
+![image6](https://github.com/Duletun/servlet_Test/assets/76465730/9684f9e6-f960-424d-a17a-2e10a1aeb054) <br />
+Рис.5. Окно добавления новых пользователей <br />
 
 
-![image7](https://github.com/Duletun/servlet_Test/assets/76465730/5805a036-77fc-421c-a48c-a06a1805cd4a)
-Рис.6. Процесс добавления новых пользователей
+![image7](https://github.com/Duletun/servlet_Test/assets/76465730/5805a036-77fc-421c-a48c-a06a1805cd4a) <br />
+Рис.6. Процесс добавления новых пользователей <br />
 
 
-![image8](https://github.com/Duletun/servlet_Test/assets/76465730/ebf9a124-197d-4c4c-b48d-f125b818f2db)
-Рис.7. Окно просмотра пользователей
+![image8](https://github.com/Duletun/servlet_Test/assets/76465730/ebf9a124-197d-4c4c-b48d-f125b818f2db) <br />
+Рис.7. Окно просмотра пользователей <br />
 
 
-![image9](https://github.com/Duletun/servlet_Test/assets/76465730/26c5de2c-a7cc-4371-b631-e5cb927c3c05)
-Рис.8. Ограничения на перемещение по списку пользователей
+![image9](https://github.com/Duletun/servlet_Test/assets/76465730/26c5de2c-a7cc-4371-b631-e5cb927c3c05) <br />
+Рис.8. Ограничения на перемещение по списку пользователей <br />
 
 
-![image10](https://github.com/Duletun/servlet_Test/assets/76465730/fef8921c-8efe-433d-bb14-f9c94824f093)
-Рис.9. Установка и сохранение блокировок и ограничений
+![image10](https://github.com/Duletun/servlet_Test/assets/76465730/fef8921c-8efe-433d-bb14-f9c94824f093) <br />
+Рис.9. Установка и сохранение блокировок и ограничений <br />
 
 
-![image11](https://github.com/Duletun/servlet_Test/assets/76465730/5b9f4c48-9230-4ef5-b312-475067e389ba)
-Рис.10. Функция блокировки пользователей
+![image11](https://github.com/Duletun/servlet_Test/assets/76465730/5b9f4c48-9230-4ef5-b312-475067e389ba) <br />
+Рис.10. Функция блокировки пользователей <br />
 
 
-![image12](https://github.com/Duletun/servlet_Test/assets/76465730/55cd83fe-cd46-4dbf-a05b-419bf456abc4)
-Рис.11. Первоначальный вход пользователя с ограничением пароля
+![image12](https://github.com/Duletun/servlet_Test/assets/76465730/55cd83fe-cd46-4dbf-a05b-419bf456abc4) <br />
+Рис.11. Первоначальный вход пользователя с ограничением пароля <br />
 
 
-![image13](https://github.com/Duletun/servlet_Test/assets/76465730/90f54985-2853-4547-a1e8-db823c59e26d)
-Рис.12. Первоначальный вход пользователя без ограничения пароля
+![image13](https://github.com/Duletun/servlet_Test/assets/76465730/90f54985-2853-4547-a1e8-db823c59e26d) <br />
+Рис.12. Первоначальный вход пользователя без ограничения пароля <br />
 
 
-![image14](https://github.com/Duletun/servlet_Test/assets/76465730/3f14328a-066a-447a-8389-e787e15fda54)
-Рис.13. Окно изменения пароля пользователя
+![image14](https://github.com/Duletun/servlet_Test/assets/76465730/3f14328a-066a-447a-8389-e787e15fda54) <br />
+Рис.13. Окно изменения пароля пользователя <br />
 
 
-![image16](https://github.com/Duletun/servlet_Test/assets/76465730/d2f2054b-4bbd-4dd9-ac9e-a09a2e782d0a)
-Рис.14. Обновленные требования ограничения пароля после установленного обычного пароля
+![image16](https://github.com/Duletun/servlet_Test/assets/76465730/d2f2054b-4bbd-4dd9-ac9e-a09a2e782d0a) <br />
+Рис.14. Обновленные требования ограничения пароля после установленного обычного пароля <br />
 
 
-![image17](https://github.com/Duletun/servlet_Test/assets/76465730/c7768097-1165-4f34-bbda-0dffc290e587)
-Рис.15. Страница пользователя
+![image17](https://github.com/Duletun/servlet_Test/assets/76465730/c7768097-1165-4f34-bbda-0dffc290e587) <br />
+Рис.15. Страница пользователя <br />
 
 
-![image2](https://github.com/Duletun/servlet_Test/assets/76465730/7b40a582-6e66-4b55-b17d-8c691c97f255)
-Рис.16. Окно ввода парольной фразы
+![image2](https://github.com/Duletun/servlet_Test/assets/76465730/7b40a582-6e66-4b55-b17d-8c691c97f255) <br />
+Рис.16. Окно ввода парольной фразы <br />
 
 
 ![image3](https://github.com/Duletun/servlet_Test/assets/76465730/b9bbd34a-3183-42eb-86e9-200c64dcf2bf) <br />
